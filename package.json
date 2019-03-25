@@ -1,0 +1,34 @@
+{
+  "name": "slp-sdk-mock",
+  "version": "1.0.0",
+  "description": "A mocking library for SLP JavaScript SDK, used in unit tests for apps that depend on SLP SDK.",
+  "main": "slp-sdk-mock.js",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christroutner/slp-sdk-mock.git"
+  },
+  "keywords": [
+    "bitbox",
+    "javascript",
+    "bitcoin",
+    "bitcoin",
+    "cash",
+    "testing",
+    "unit",
+    "tests",
+    "slp-sdk"
+  ],
+  "author": "Chris Troutner <chris.troutner@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christroutner/slp-sdk-mock/issues"
+  },
+  "homepage": "https://github.com/christroutner/slp-sdk-mock#readme",
+  "dependencies": {
+    "semantic-release": "^15.13.3",
+    "sinon": "^7.3.0"
+  }
+}
