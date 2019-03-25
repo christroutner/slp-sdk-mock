@@ -5,7 +5,7 @@
 'use strict'
 
 const sinon = require('sinon')
-const bitboxMock = require('bitbox-mock')
+const bitboxMock = require('bitbox-mock') // Builds on top of this lib.
 
 // Inspect JS Objects.
 const util = require('util')
