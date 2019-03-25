@@ -1,4 +1,7 @@
 # slp-sdk-mock
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/christroutner/slp-sdk-mock.svg)](https://greenkeeper.io/)
+
 This is a mocking library for
 [SLP JavaScript SDK](https://github.com/Bitcoin-com/slp-sdk). If you write
 an app that depends on the SLP SDK library, you can use this mocking library to
