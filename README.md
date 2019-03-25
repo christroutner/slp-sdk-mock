@@ -4,9 +4,9 @@ This is a mocking library for
 an app that depends on the SLP SDK library, you can use this mocking library to
 write unit tests.
 
-Unit tests should not call external services. That's the primary difference between
-unit tests and integration tests. Instead of making live calls with BITBOX, this
-mocking library can be used instead.
+Unit tests should not call external services. That's the primary difference
+between unit tests and integration tests. Instead of making live calls with
+BITBOX, this mocking library can be used instead.
 
 ## Usage
 In a normal app, you would instantiate BITBOX accordingly:
