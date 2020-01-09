@@ -29,7 +29,7 @@
   "homepage": "https://github.com/christroutner/slp-sdk-mock#readme",
   "dependencies": {
     "bitbox-mock": "^1.0.1",
-    "semantic-release": "^15.13.3",
+    "semantic-release": "^16.0.0",
     "sinon": "^7.3.0"
   }
 }
