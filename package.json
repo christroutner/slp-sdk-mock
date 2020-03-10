@@ -30,6 +30,6 @@
   "dependencies": {
     "bitbox-mock": "^1.0.1",
     "semantic-release": "^15.13.3",
-    "sinon": "^7.3.0"
+    "sinon": "^9.0.1"
   }
 }
